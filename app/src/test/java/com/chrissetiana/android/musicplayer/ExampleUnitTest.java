@@ -1,4 +1,4 @@
-package com.example.android.musicplayer;
+package com.chrissetiana.android.musicplayer;
 
 import org.junit.Test;
 

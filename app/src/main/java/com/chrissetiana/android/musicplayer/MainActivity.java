@@ -1,4 +1,4 @@
-package com.example.android.musicplayer;
+package com.chrissetiana.android.musicplayer;
 
 import android.media.MediaPlayer;
 import android.os.Bundle;
