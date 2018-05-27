@@ -1,4 +1,4 @@
-package com.chrissetiana.android.musicplayer;
+package com.chrissetiana.musicplayer;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
